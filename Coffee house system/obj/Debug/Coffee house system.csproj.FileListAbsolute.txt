@@ -1,0 +1,19 @@
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\bin\Debug\Database1.mdf
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\bin\Debug\Database1_log.ldf
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\bin\Debug\Coffee house system.exe.config
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\bin\Debug\Coffee house system.exe
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\bin\Debug\Coffee house system.pdb
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee house system.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee house system.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Form1.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Form2.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Form5.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Form6.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Form7.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Form8.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Form9.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee_house_system.Properties.Resources.resources
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee house system.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee house system.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee house system.exe
+C:\Users\HP\source\repos\Coffee house system\Coffee house system\obj\Debug\Coffee house system.pdb
